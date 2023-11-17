@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'espiktarenko/mortgage',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => 'f5c02a77e1b1048e9269b4d84d326f0c21435daf',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '46e550c9ee757d8d0da4190a7ebadf82541b7e8c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'espiktarenko/mortgage' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => 'f5c02a77e1b1048e9269b4d84d326f0c21435daf',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '46e550c9ee757d8d0da4190a7ebadf82541b7e8c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
