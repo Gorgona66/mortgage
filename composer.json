@@ -1,0 +1,19 @@
+{
+    "name": "espiktarenko/mortgage",
+    "description": "mortgage calculate",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Espiktarenko\\Mortgage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Елена Спиктаренко",
+            "email": "elena.spiktarenko@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
